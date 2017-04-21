@@ -3,4 +3,4 @@
  * @param args 
  * @returns {Date}
  */
-export function minData(...args: Date[]) : Date; 
+export function minDate(...args: Date[]) : Date; 
